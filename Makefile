@@ -21,6 +21,7 @@ To run the Selenium test script, follow these steps:
      ```
      git clone https://github.com/gaganshetty07/ecommerce_automation.git
      ```
+     Code is in DEV Branch
 
 4. **Navigate to the Script Directory**:
    - Open a terminal or command prompt and navigate to the directory containing the Selenium test script.
